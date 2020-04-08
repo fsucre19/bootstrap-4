@@ -4,6 +4,10 @@ html, body {
   height: 100%;
 }
 
+img {
+  max-width: 100%;
+}
+
 /* cover */
 
 #cover {
@@ -19,3 +23,5 @@ html, body {
 #cover-caption {
   width: 100%;
 }
+
+/* cards */
